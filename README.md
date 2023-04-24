@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Petr Král, frequently using the alias @PrinceOfCzechia. My most native language is C++ and I do a bit of python too.
+- 👋 Hi, I’m Petr Král, frequently using the alias @PrinceOfCzechia. My most native language is C++ and I speak a little python too.
 - :mag: I’m interested in Numerical Mathematics, Optimization and Simulations.
 - :envelope_with_arrow: Contact me on [twitter](https://twitter.com/PrinceOfCzechia), if you feel like.
 
